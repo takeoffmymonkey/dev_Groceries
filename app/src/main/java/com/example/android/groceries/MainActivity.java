@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 "Лук",
                 "Картошка",
                 "Вермишель",
-                "Пустота"};
+                "Тест"};
 
         Double[] prices = {
                 7.45,
