@@ -1,5 +1,5 @@
 package com.example.android.groceries;
-//this is 2.0 version test commit
+//this is 2.0 version test commit 2
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
